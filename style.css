@@ -1,0 +1,13 @@
+/* RESET AND COMMON STYLE */
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Jost',sans-serif;
+    font-weight: 400;
+
+}
+/* END OF RESET AND COMMON STYLE */
